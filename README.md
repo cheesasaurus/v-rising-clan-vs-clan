@@ -87,5 +87,5 @@ System (to [SWAG]): You have 20 seconds to place a golem before the war is cance
 (after 20 seconds)
 System: WAR CANCELLED ([SWAG] vs [HIVE])
 Billy: .war declare Bobby
-System (to Bobby): You must wait 15 minutes before declaring another war on [HIVE]
+System (to Billy): You must wait 15 minutes before declaring another war on [HIVE]
 ```
