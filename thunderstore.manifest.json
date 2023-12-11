@@ -1,0 +1,11 @@
+{
+    "name": "ClanVsClan",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/cheesasaurus/v-rising-clan-vs-clan",
+    "description": "Mitigates teaming during raids.",
+    "dependencies": [
+      "BepInEx-BepInExPack_V_Rising-1.668.5",
+      "deca-Bloodstone-0.1.6",
+      "deca-VampireCommandFramework-0.8.0"
+    ]
+  }
